@@ -10,4 +10,6 @@ Hi
 
 Published first personal blog post from github.
 
-🙌
+##🙌
+
+![alien](https://images.pexels.com/photos/5558237/pexels-photo-5558237.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260)
